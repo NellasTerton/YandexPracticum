@@ -1,4 +1,4 @@
-*All the text and code of the project are available via the downloaded file.
+*All the text and code of the project are available via the downloaded file.*
 
 **Описание проекта**
 
