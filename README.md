@@ -47,10 +47,14 @@
 <td><b>Python, Pandas, Seaborn, Plotly, визуализация данных</b></td>
 <td>Завершен</td>
 <tr>
-<td>Проверка гипотез по увеличению выручки в интернет-магазине —
-оценить результаты A/B теста (Making business decisions based on data from a large online store)</td>
+<td>Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста (Making business decisions based on data from a large online store)</td>
 <td>Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами.</td>
 <td><b>Python, Pandas, Matplotlib, SciPy, A/B-тестирование, проверка статистических гипотез</b></td>
+<td>Завершен</td>
+<tr>
+<td>Создание дашборда по пользовательским событиям для агрегатора новостей (Creating a custom event dashboard for an aggregator news)</td>
+<td> Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей.</td>
+<td><b>Python, SQLAlchemy, PostgreSQL,  dash, Tableau, продуктовые метрики, построение дашбордов</b></td>
 <td>Завершен</td>
 </table>
 <br/><br/>
